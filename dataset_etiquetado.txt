@@ -1,0 +1,379 @@
+1	Estás loca
+1	Estás loco
+1	Estás exagerando
+1	Eres demasiado sensible
+1	Solo estaba bromeando
+1	Me hiciste hacerlo
+1	Todo es culpa tuya
+1	te grité hoy porque te equivocaste
+1	llegaste tarde a casa  así que lograste que te gritara
+1	Si me quisieras  harías esto
+1	Si me quisieras  me dejarías hacer esto
+1	Todos están de acuerdo conmigo  menos tú
+1	¡Haz el favor de madurar!
+1	Pues tú hace un tiempo hiciste lo mismo
+1	Si sigues así  lo nuestro se acabó y punto
+1	No me dejes: no puedo vivir sin ti
+1	No mereces estar conmigo
+1	Deja de preguntar si estoy bien
+1	Estás actuando como loca
+1	Estás actuando como loco
+1	Nadie más te querría como yo
+1	Si realmente me amaras  harías esto por mí
+1	Eres tan inútil 
+1	Eres tanincompetente
+1	Siempre haces lo mismo mal
+1	Eres demasiado sensible
+1	No eres nada sin mí
+1	Me haces enojar tanto
+1	No puedes hacer nada bien
+1	Eres una carga para mí
+1	Mis necesidades siempre son más importantes que las tuyas
+1	No puedes hacer nada sin mi ayuda
+1	Deberías agradecer que estoy contigo
+1	¿Por qué no puedes ser más como [otra persona]?
+1	Nunca estarás a la altura de mis expectativas
+1	Si fueras realmente mi amigo  harías esto por mí
+1	Siempre te quejas de tus problemas  nunca piensas en los míos
+1	No puedes hacer nada bien
+1	Eres tan dramático por nada
+1	Eres tan dramática por nada
+1	¿Por qué no puedes ser más como
+1	Solo te importas a ti misma
+1	Solo te importas a ti mismo
+1	No sé por qué alguien querría ser tu amigo
+1	No sé por qué alguien querría ser tu amiga
+1	Estás exagerando  como siempre
+1	Nunca tomas en serio mis problemas
+1	Deberías agradecer tenerme como amigo
+1	Deberías agradecer tenerme como amiga
+1	Todos piensan que eres molesto
+1	Todos piensan que eres molesta
+1	Eres un lastre en mi vida
+1	Nunca cumples tus promesas
+1	No puedo confiar en ti para nada
+1	Si no estuvieras aquí  mi vida sería mucho mejor
+1	Nunca estás a la altura de las expectativas de la familia
+1	Eres una vergüenza para nosotros
+1	No puedes tomar decisiones por ti misma
+1	No puedes tomar decisiones por ti mismo
+1	Si realmente nos quisieras  harías lo que te decimos
+1	Siempre haces lo mismo mal
+1	Eres el problema de la familia
+1	Tu hermano siempre ha sido mejor que tú
+1	Tu hermana siempre ha sido mejor que tú
+1	No puedes compararte con otros miembros de la familia
+1	No importa lo que hagas  nunca será suficiente
+1	Tu vida es un desastre  no sé cómo puedes vivir así
+1	Si no sigues nuestras tradiciones  estás traicionando a la familia
+1	No tienes derecho a tus propias opiniones
+1	¿Por qué no eres más como [otro miembro de la familia]?
+1	No importa lo que logres  siempre encontraré algo de qué quejarme
+1	No mereces ser parte de esta familia
+1	Si no te gusta  puedes irte
+1	Nunca haces lo suficiente para merecer un ascenso
+1	Eres fácilmente reemplazable
+1	Si no trabajas horas extras  no eres lo suficientemente dedicado
+1	Si no trabajas horas extras  no eres lo suficientemente dedicada
+1	Tu opinión no importa aquí
+1	Siempre cometes errores  ¿no puedes hacer algo bien?
+1	No mereces el salario que estás recibiendo
+1	Tu desempeño no está a la altura de nuestras expectativas
+1	Deberías estar agradecido de tener un trabajo
+1	Deberías estar agradecida de tener un trabajo
+1	Si no cumples con esto  te despediré
+1	Tienes suerte de tener este trabajo  no lo eches a perder
+1	No sé cómo llegaste a este puesto
+1	Si te quejas  te pondré en la lista negra
+1	No necesitamos tu opinión  solo haz lo que te decimos
+1	Eres un incompetente
+1	Eres una incompetente
+1	Eres un perdedor  nadie te quiere aquí
+1	Eres una perdedora  nadie te quiere aquí
+1	Si no haces esto por mí  arruinaré tu reputación
+1	Nunca lograrás nada en la vida
+1	Eres el estudiante más inútil de la clase
+1	Todos piensan que eres un tonto
+1	Todos piensan que eres una tonta
+1	Nunca estarás a la altura de las expectativas
+1	Si no eres parte de nuestro grupo  no eres nadie
+1	Deberías agradecer que estamos hablando contigo
+1	Tu opinión no importa  solo nosotros sabemos lo que es correcto
+1	No entiendes nada  eres demasiado estúpido
+1	No entiendes nada  eres demasiado estúpida
+1	Si no haces trampa  nunca aprobarás
+1	Eres tan aburrido  no sé por qué alguien querría ser tu amigo
+1	Eres tan aburrida  no sé por qué alguien querría ser tu amigo
+1	Si no sigues nuestras reglas  te excluiremos
+1	No tienes talento para nada
+1	Si no haces lo que te digo  contaré cosas vergonzosas sobre ti
+1	Si no haces lo que decimos  te excluiremos del grupo
+1	Eres siempre el problema en nuestras reuniones
+1	No tienes la personalidad adecuada para estar aquí
+1	Si no rindes lo suficiente  no mereces jugar
+1	Eres el eslabón débil en el equipo
+1	Solo ganamos cuando no estás en el campo
+1	Solo ganamos cuando no estás en el juego
+1	Tus contribuciones son siempre las peores
+1	No tienes talento  ¿por qué sigues intentándolo?
+1	Tu arte no es digno de ser mostrado
+1	Si no te comprometes más  no necesitamos tu ayuda
+1	Tu esfuerzo no es suficiente para hacer una diferencia
+1	Todos piensan que no te importa esta causa
+1	Si no estás de acuerdo con nosotros  no perteneces aquí
+1	Eres la razón por la que las cosas no funcionan en nuestra comunidad
+1	No mereces ser parte de nuestros esfuerzos
+1	Siempre estás decepcionándome
+1	No eres lo que esperaba que fueras
+1	No importa lo que hagas  nunca será suficiente
+1	No puedo creer que hayas hecho algo tan estúpido
+1	Eres un fracaso
+1	¿Por qué no puedes ser más como 
+1	No mereces mi amor si no actúas de la manera que quiero
+1	Nunca cumplirás tus sueños; deberías conformarte con algo más realista
+1	Siempre me haces quedar mal frente a los demás
+1	No eres lo que necesito que seas
+1	Eres un error en mi vida
+1	No confío en tus decisiones
+1	Nunca me escuchas; siempre haces lo que quieres
+1	Siempre estás equivocado  yo siempre tengo razón
+1	Siempre estás equivocada  yo siempre tengo razón
+1	Eres una carga para mí
+1	No me importa lo que pienses o sientas
+1	Nunca haces nada bien
+1	Siempre me estás presionando; déjame en paz
+1	No entiendes nada de mi vida
+1	Odio cuando intentas controlar todo
+1	Me avergüenzo de tenerte como padre
+1	Me avergüenzo de tenerte como madre
+1	No te necesito en mi vida
+1	Eres un fracaso como modelo a seguir
+1	Eres una fracaso como modelo a seguir
+1	No confío en tus decisiones
+1	No mereces mi respeto
+1	Nunca me escuchas; siempre tienes la razón
+1	Siempre estás criticando todo lo que hago
+1	Mejor sería si no estuvieras aquí
+1	No tienes ni idea de lo que es vivir en mi época
+1	Eres una carga para mí
+1	Siempre eres el favorito
+1	Siempre eres la favorita
+1	Nunca haces nada bien
+1	Eres tan molesto  no quiero estar cerca de ti
+1	Eres tan molesta  no quiero estar cerca de ti
+1	Nadie te toma en serio
+1	Si no hicieras eso  seríamos una familia feliz
+1	Siempre tratas de llamar la atención
+1	No me importa lo que pienses o sientas
+1	Eres una carga para la familia
+1	Ojalá nunca hubieras nacido
+1	Siempre tienes que arruinar todo
+1	No eres lo suficientemente inteligente como para entenderlo
+1	Deberías aprender de mí  siempre lo hago mejor
+1	No mereces ser parte de la familia
+1	Siempre tienes que competir conmigo
+1	Mejor sería si no estuvieras aquí
+1	Si no haces lo que digo  te arrepentirás
+1	Eres mía y solo mía; no permitiré que nadie más te tenga
+1	Te golpearé si vuelves a hacer eso
+1	Nunca encontrarás a alguien que te quiera como yo
+1	Eres una estúpida  no puedes hacer nada bien
+1	Te controlaré para tu propio bien
+1	Si me dejaras  te perseguiré hasta el fin del mundo
+1	Tú me haces comportarme así Es tu culpa
+1	No puedes vivir sin mí  ¿verdad?
+1	Nadie más te amará como yo  así que mejor quédate conmigo
+1	Eres una carga  nadie más te querrá
+1	No tienes permitido hablar o mirar a otras personas
+1	Me perteneces  no tienes libertad
+1	Te castigaré si no haces lo que te digo
+1	Si alguna vez me dejas  haré daño a alguien más
+1	Si no haces lo que digo  te castigaré
+1	Eres mío y solo mío; no permitiré que nadie más te tenga
+1	Te golpearé si vuelves a hacer eso
+1	Eres un inútil  no puedes hacer nada bien
+1	Te controlaré para tu propio bien
+1	Si me dejas  te perseguiré hasta el fin del mundo
+1	Tú me haces comportarme así Es tu culpa
+1	No puedes vivir sin mí  ¿verdad?
+1	Nadie más te amará como yo  así que mejor quédate conmigo
+1	Eres una carga  nadie más te querrá
+1	No tienes permitido hablar o mirar a otras personas
+1	Me perteneces  no tienes libertad
+1	Te castigaré si no haces lo que te digo
+1	Si alguna vez me dejas  haré daño a alguien más
+1	Eres débil  no puedes enfrentarte a nadie más
+1	Eso nunca sucedió Estás inventando cosas otra vez
+1	No fue tan malo como lo pintas Siempre dramatizas las cosas
+1	No me enojaría si no hicieras cosas que me provocan
+1	Estás siendo demasiado sensible No es para tanto
+1	 Si tan solo me entendieras  no tendríamos estos problemas
+1	Estás tratando de culparme por algo que claramente es tu problema
+1	Recuerdas mal las cosas Eso no es lo que realmente pasó
+1	Siempre olvidas las cosas Tal vez estés equivocado
+1	Siempre olvidas las cosas Tal vez estés equivocada
+1	No confío en tu memoria  siempre recuerdas las cosas de manera incorrecta
+1	Me haces sentir tan mal cuando dices esas cosas ¿Realmente quieres hacerme sentir así
+1	No recuerdo haber dicho eso Seguro que lo malinterpretaste
+1	¿Por qué estás tan emocional? Estás exagerando
+1	Eso no es lo que sucedió en realidad Deberías recordarlo correctamente
+1	No viste lo que crees que viste Estás imaginando cosas
+1	No quiero hablar de eso Siempre estás tratando de crear problemas
+1	Siempre interpretas mal lo que digo No sé por qué siempre te confundes
+1	Deberías ver a alguien Parece que estás perdiendo la cabeza
+1	No eres tan inteligente como piensas Te equivocas todo el tiempo
+1	No te golpeé tan fuerte Deberías agradecer que no fue peor
+1	Oh  disculpa por no ser tan perfecto como tú
+1	Oh  disculpa por no ser tan perfecta como tú
+1	Yo siempre sé lo que es mejor para ti Deberías escucharme más
+1	No tengo idea de a qué te refieres No recuerdo haber dicho eso
+1	Suficiente sobre tus problemas Permíteme contarte sobre mi día
+1	Si realmente me quisieras  no estaríamos discutiendo
+1	No creo que hayas recordado eso correctamente Deberías chequear tu memoria
+1	Eres demasiado viejo para entender esto
+1	Eres demasiado vieja para entender esto
+1	¿No deberías retirarte ya? Estás muy mayor para trabajar
+1	No te preocupes  no espero que entiendas  eres anciana
+1	No te preocupes  no espero que entiendas  eres anciano
+1	¿Todavía puedes hacer eso a tu edad?
+1	¿Por qué no te jubilas y dejas espacio para la gente más joven?
+1	Estás olvidando cosas porque estás envejeciendo
+1	No tiene sentido preguntarte  ya que eres mayor y no sabes lo que está de moda
+1	Deberías quedarte en casa y descansar en lugar de salir tanto
+1	No deberías intentar aprender cosas nuevas a tu edad
+1	Eres lento porque estás envejeciendo
+1	Eres lenta porque estás envejeciendo
+1	Tus mejores años ya pasaron
+1	Es lindo que intentes mantenerte activo  pero quizás deberías tomarte un descanso
+1	Es lindo que intentes mantenerte activa  pero quizás deberías tomarte un descanso
+1	¿De verdad piensas que deberías usar esa ropa a tu edad?
+1	No deberías gastar dinero en eso a tu edad
+1	Es normal que te sientas cansado a tu edad
+1	Es normal que te sientas cansada a tu edad
+1	Eres valiente por vivir con tu condición
+1	Si tan solo te esforzaras más  podrías superarlo
+1	Nunca podría vivir como tú
+1	Debes sentirte agradecido de que alguien te quiera a pesar de tu discapacidad
+1	Debes sentirte agradecida de que alguien te quiera a pesar de tu discapacidad
+1	Seguro que es difícil para ti  pero al menos no tienes que preocuparte por 
+1	¿Cómo puedes hacer [actividad] con tu condición?
+1	No pareces discapacitado Estás tan bien adaptado
+1	No pareces discapacitada Estás tan bien adaptada
+1	No preferirías estar sola para no ser una carga para los demás
+1	No preferirías estar solo para no ser una carga para los demás
+1	Deberías estar acostumbrado a esto a estas alturas
+1	Deberías estar acostumbrada a esto a estas alturas
+1	Desde aqui son positivas
+1	No te preocupes  siempre estoy aquí para ayudarte
+0	Eres increíble tal y como eres
+0	Tu determinación es inspiradora
+0	Tus logros son impresionantes
+0	Tienes un espíritu fuerte y resiliente
+0	Me encanta cómo enfrentas los desafíos con valentía
+0	Tu positividad es contagiosa
+0	Eres una fuente de inspiración para muchos
+0	Tu fuerza interior es asombrosa
+0	Cada día que pasa  te vuelves más fuerte
+0	Tu alegría ilumina incluso los días más oscuros
+0	Tus esfuerzos no pasan desapercibidos
+0	Eres una persona maravillosa  tanto por dentro como por fuera
+0	La forma en que enfrentas la vida es admirable
+0	Tus habilidades y talentos son excepcionales
+0	Siempre encuentras la luz en medio de la oscuridad
+0	Eres una persona increíble y estoy agradecido de tenerte en mi vida
+0	Eres una persona increíble y estoy agradecida de tenerte en mi vida
+0	Tu presencia ilumina mis días
+0	Juntos  podemos superar cualquier desafío
+0	Aprecio todo lo que haces por mí
+0	Eres fuerte  valiente y capaz
+0	Me encanta cómo afrontamos juntos los altibajos de la vida
+0	Tu apoyo significa el mundo para mí
+0	Eres una inspiración para quienes te rodean
+0	Gracias por ser mi compañero en esta aventura llamada vida
+0	Gracias por ser mi compañera en esta aventura llamada vida
+0	Cada día contigo es un regalo
+0	Admiro tus logros y tu dedicación
+0	Eres una fuente constante de alegría y positividad
+0	Tu amabilidad y compasión hacen del mundo un lugar mejor
+0	Confío en ti y en nuestra conexión
+0	Juntos  formamos un equipo fuerte y solidario
+0	Aprecio el arduo trabajo que todos están haciendo
+0	Gracias por tu dedicación y esfuerzo constante
+0	Estamos trabajando juntos hacia el éxito como un equipo
+0	Tus ideas y contribuciones son valiosas para el proyecto
+0	Hemos superado muchos desafíos  ¡y lo seguiremos haciendo!
+0	Cada uno de ustedes desempeña un papel crucial en nuestro éxito
+0	La colaboración entre nosotros es la clave de nuestro progreso
+0	Hagamos de hoy un día increíble
+0	Me inspira ver cómo cada uno da lo mejor de sí mismo
+0	Estoy agradecido de formar parte de un equipo tan talentoso
+0	Estoy agradecida de formar parte de un equipo tan talentoso
+0	Juntos  podemos alcanzar metas que individualmente serían inalcanzables
+0	Celebremos nuestros logros y aprendamos de nuestros desafíos
+0	Gracias por hacer que nuestro entorno laboral sea positivo y productivo
+0	Cada día es una nueva oportunidad para crecer y aprender juntos
+0	Valoramos la diversidad de habilidades y perspectivas en nuestro equipo
+0	Eres una fuente constante de alegría en nuestras vidas
+0	Estoy increíblemente orgulloso de la persona en la que te estás convirtiendo
+0	Estoy increíblemente orgullosa de la persona en la que te estás convirtiendo
+0	Tu creatividad y curiosidad son inspiradoras
+0	Eres amado más allá de las palabras
+0	Eres amada más allá de las palabras
+0	Gracias por enseñarme algo nuevo cada día
+0	Eres más fuerte y más capaz de lo que imaginas
+0	Tus esfuerzos y logros son apreciados y reconocidos
+0	Me encanta pasar tiempo contigo; eres una gran compañía
+0	Tienes un corazón generoso y compasivo
+0	Eres valioso y digno de amor y respeto
+0	Eres valiosa y digna de amor y respeto
+0	Siempre estoy aquí para apoyarte en lo que necesites
+0	Admiro tu determinación y perseverancia
+0	Eres una luz brillante en nuestras vidas
+0	Tus opiniones y pensamientos son importantes para mí
+0	Nunca dejes de ser tú mismo; eres único y especial
+0	Nunca dejes de ser tú misma; eres única y especial
+0	Gracias por ser siempre mi mayor apoyo y fuente de inspiración
+0	Aprecio todo el esfuerzo que han dedicado para criarme y cuidarme
+0	Tu sabiduría y experiencia son invaluables para mí
+0	Gracias por enseñarme a ser fuerte y resiliente en la vida
+0	Eres mi héroe y mi ejemplo a seguir
+0	Eres mi heroina y mi ejemplo a seguir
+0	Nunca dejaré de agradecer todo lo que has hecho por mí
+0	Tu amor incondicional me ha dado la confianza para enfrentar desafíos
+0	Cada sacrificio que han hecho por mí no ha pasado desapercibido
+0	Eres más que mis padres  eres mis mejores amigos
+0	Agradezco la paciencia que has tenido conmigo a lo largo de los años
+0	Gracias por siempre escucharme y apoyarme en todas mis decisiones
+0	Me siento afortunado de tener padres tan increíbles como ustedes
+0	La vida es más hermosa gracias a su presencia en ella
+0	Nunca podré devolver todo el amor que me han dado  pero siempre lo apreciaré
+0	Gracias por enseñarme los verdaderos valores de la vida
+0	Siempre es agradable pasar tiempo contigo Gracias por estar ahí
+0	Tu compañía hace que los momentos sean más agradables
+0	Aprecio la conexión que compartimos  aunque no hablemos todos los días
+0	Es genial saber que cuento contigo cuando lo necesito
+0	Me alegra tenerte en mi círculo de amigos Eres una persona especial
+0	Aunque nuestras vidas nos mantengan ocupadas  valoro nuestra amistad
+0	Tu amabilidad y buena onda siempre son bienvenidas
+0	Siempre encuentro inspiración en nuestra amistad  incluso a la distancia
+0	Gracias por ser parte de mi vida y hacerla más rica
+0	Nuestra amistad es como un pequeño rayo de sol en mi rutina diaria
+0	Cada vez que nos encontramos  es como un pequeño recordatorio de lo afortunado que soy de conocerte
+0	Aprecio mucho tu presencia en mi vida; eres una persona genial
+0	Aunque no nos veamos tan seguido  siempre es un placer cuando lo hacemos
+0	Gracias por ser un amigo en quien puedo confiar  incluso a distancia
+0	Eres más que un hermano eres mi amigo y confidente
+0	Aprecio cada momento que hemos compartido juntos a lo largo de los años
+0	Tu presencia hace que la vida sea más rica y significativa
+0	Nuestra conexión es única y especial  y eso es algo que valoro mucho
+0	Gracias por siempre estar ahí  incluso en los momentos más difíciles
+0	Eres una parte esencial de mi historia y mi vida
+0	Nuestros recuerdos juntos son tesoros que atesoro siempre
+0	A pesar de nuestras diferencias  sé que siempre puedo contar contigo
+0	Eres una fuente constante de alegría en mi vida
+0	Me siento afortunado de tener un hermano tan increíble como tú
+0	La vida es mejor contigo a mi lado  compartiendo risas y experiencias
+0	Tu apoyo y amor son fundamentales para mi felicidad
+0	Nuestra relación es un vínculo indestructible que atesoro
+0	Gracias por ser mi familia y mi amigo más leal
+0	Eres una parte esencial de quién soy  y te aprecio profundamente
